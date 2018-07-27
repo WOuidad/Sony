@@ -1,0 +1,62 @@
+.navbar{
+	background:#000000 !important;
+}
+
+.carousel 
+{
+width:70%;
+height:65%;
+margin:auto;
+}
+
+h3{
+margin:0px 0px 0px 150px;
+}
+
+.img23{
+margin-left:100px;
+}
+
+.container_2{
+background-color:#F1F5F9;
+}
+
+footer{
+background-color: #1F2024;
+padding: 25px;
+}
+
+ul, li{
+list-style-type: none;
+}
+
+.list{
+margin-top: 15px;
+}
+
+span{
+color:#ffffff;
+}
+
+h3{
+margin:center; 
+}
+p{
+text-decoration: bold;
+margin:0px 0px 0px 150px;
+}
+
+h5{
+color:#3C3C42 !important;
+}
+
+h6{
+font-size:18px !important;
+text-decoration:none!important;
+color:#ffffff!important;
+padding:space-around!important;
+}
+
+h6:hover{
+text-decoration: none !important;
+}
